@@ -1,5 +1,7 @@
 /// @description Fetch Wad
 
+wadDirectory = ds_list_create()
+
 if DE_fetchWad(WAD){
 	
 	draw_set_font(_GamesFonts[selMode]);

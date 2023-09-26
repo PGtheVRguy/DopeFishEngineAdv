@@ -1,12 +1,11 @@
 {
-  "isDnD": false,
+  "resourceType": "GMScript",
+  "resourceVersion": "1.0",
+  "name": "d3d_set_hidden",
   "isCompatibility": true,
+  "isDnD": false,
   "parent": {
     "name": "d3d",
     "path": "folders/Scripts/compatibility/d3d.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "d3d_set_hidden",
-  "tags": [],
-  "resourceType": "GMScript",
 }

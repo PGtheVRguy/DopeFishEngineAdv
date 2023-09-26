@@ -1,12 +1,11 @@
 {
-  "isDnD": false,
+  "resourceType": "GMScript",
+  "resourceVersion": "1.0",
+  "name": "DE_readPatch",
   "isCompatibility": false,
+  "isDnD": false,
   "parent": {
     "name": "Graphics",
     "path": "folders/Scripts/DopeFish/Wad Loader/Graphics.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "DE_readPatch",
-  "tags": [],
-  "resourceType": "GMScript",
 }

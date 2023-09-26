@@ -1,11 +1,10 @@
 {
-  "type": 1,
+  "resourceType": "GMShader",
+  "resourceVersion": "1.0",
+  "name": "sha_billboards",
   "parent": {
     "name": "particle-billboards",
     "path": "folders/Shaders/particle-billboards.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "sha_billboards",
-  "tags": [],
-  "resourceType": "GMShader",
+  "type": 1,
 }

@@ -1,12 +1,11 @@
 {
-  "isDnD": false,
+  "resourceType": "GMScript",
+  "resourceVersion": "1.0",
+  "name": "RFX_toggle",
   "isCompatibility": false,
+  "isDnD": false,
   "parent": {
     "name": "RetroFexx",
     "path": "folders/Scripts/RetroFexx.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "RFX_toggle",
-  "tags": [],
-  "resourceType": "GMScript",
 }

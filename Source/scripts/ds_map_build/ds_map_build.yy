@@ -1,12 +1,11 @@
 {
-  "isDnD": false,
+  "resourceType": "GMScript",
+  "resourceVersion": "1.0",
+  "name": "ds_map_build",
   "isCompatibility": false,
+  "isDnD": false,
   "parent": {
     "name": "ds_data management",
     "path": "folders/Scripts/Math and Data/ds_data management.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "ds_map_build",
-  "tags": [],
-  "resourceType": "GMScript",
 }

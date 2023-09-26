@@ -1,12 +1,11 @@
 {
-  "isDnD": false,
+  "resourceType": "GMScript",
+  "resourceVersion": "1.0",
+  "name": "DE_initDecorate",
   "isCompatibility": false,
+  "isDnD": false,
   "parent": {
     "name": "Data Parsing",
     "path": "folders/Scripts/DopeFish/Main/Data Parsing.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "DE_initDecorate",
-  "tags": [],
-  "resourceType": "GMScript",
 }

@@ -174,7 +174,7 @@ function DE_advanceParseMode(token){
 		break;
 		case "map":
 			global.currentActor = struct_copy(MAPINFOstruct);
-			ds_list_add(wadGameInfo.maps,global.currentActor );	
+			ds_list_add(wadGameInfo.maps,global.currentActor );	//THIS IS BROKEN!!!!
 			trace("Discovered New Map");
 		break;
 		case "episode":

@@ -1,5 +1,19 @@
 /// @description 
 
+//init stuff
+wadDirectoryOfs = ds_map_create();
+wadLocalization = ds_map_create();
+flats_ = ds_map_create();
+wadSpriteDB = ds_map_create();
+wadSpritesMir = ds_map_create();
+wadSpritesDir = ds_map_create();
+wadSwitchTextures = ds_map_create();
+
+
+wadPNames = ds_list_create();
+//
+
+
 image_speed = 0;
 
 DopeFishEngineInit( objDEFPSController );

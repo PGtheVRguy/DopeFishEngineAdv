@@ -1,12 +1,11 @@
 {
-  "isDnD": false,
+  "resourceType": "GMScript",
+  "resourceVersion": "1.0",
+  "name": "DE_buildGLSSect",
   "isCompatibility": false,
+  "isDnD": false,
   "parent": {
     "name": "Build",
     "path": "folders/Scripts/DopeFish/Wad Loader/Map/Build.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "DE_buildGLSSect",
-  "tags": [],
-  "resourceType": "GMScript",
 }

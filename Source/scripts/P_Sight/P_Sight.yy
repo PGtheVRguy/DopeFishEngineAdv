@@ -1,12 +1,11 @@
 {
-  "isDnD": false,
+  "resourceType": "GMScript",
+  "resourceVersion": "1.0",
+  "name": "P_Sight",
   "isCompatibility": false,
+  "isDnD": false,
   "parent": {
     "name": "GENERAL",
     "path": "folders/Scripts/DopeFish/Main/Data Management/GENERAL.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "P_Sight",
-  "tags": [],
-  "resourceType": "GMScript",
 }

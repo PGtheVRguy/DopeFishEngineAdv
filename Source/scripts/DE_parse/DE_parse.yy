@@ -1,12 +1,11 @@
 {
-  "isDnD": false,
+  "resourceType": "GMScript",
+  "resourceVersion": "1.0",
+  "name": "DE_parse",
   "isCompatibility": false,
+  "isDnD": false,
   "parent": {
     "name": "Wad Read",
     "path": "folders/Scripts/DopeFish/Wad Loader/Wad Read.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "DE_parse",
-  "tags": [],
-  "resourceType": "GMScript",
 }

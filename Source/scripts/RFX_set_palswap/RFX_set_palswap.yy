@@ -1,12 +1,11 @@
 {
-  "isDnD": false,
+  "resourceType": "GMScript",
+  "resourceVersion": "1.0",
+  "name": "RFX_set_palswap",
   "isCompatibility": false,
+  "isDnD": false,
   "parent": {
     "name": "RetroFexx",
     "path": "folders/Scripts/RetroFexx.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "RFX_set_palswap",
-  "tags": [],
-  "resourceType": "GMScript",
 }
